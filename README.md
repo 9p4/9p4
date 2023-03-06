@@ -1,1 +1,1 @@
-# [ersei.net](https://ersei.net)
+# [sourcehut](https://git.sr.ht/~fd)
